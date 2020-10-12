@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "test/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": false
+}
